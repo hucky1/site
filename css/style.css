@@ -1,0 +1,11 @@
+.container2 .but, .container1 > .but {
+  font-size: 20px;
+  margin: 0;
+  padding: 10px;
+  border: 2px solid grey; }
+
+.container1 * {
+  background-color: rgb(0, 207, 0); }
+
+.container {
+  display: flex; }
